@@ -17,3 +17,7 @@ Business Intelligence Questions Explored:
 10.	Key Influencers on Total Yearly Compensation: Discover the factors that significantly influence an increase or decrease in total yearly compensation for STEM professionals.
 
 Through interactive visualizations and data-driven insights, this Power BI analysis aims to provide a deeper understanding of the STEM job market, salary trends, and factors that contribute to compensation variations. Feel free to explore the reports and visualizations to gain valuable insights from the STEM Salary Dataset analysis.
+
+Contributing: Contributions to this project are welcome. If you have any suggestions, or feature enhancements, please create a pull request.
+
+License: This project is licensed under MIT
